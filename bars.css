@@ -1,3 +1,42 @@
-.column{
 
+
+.first{
+    margin-top: 70px;
+    height: 150px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.second{
+    margin-top: 20px;
+    height: 200px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.third{
+    margin-top: 40px;
+    height:180px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.fourth{
+    margin-top: 30px;
+    height: 190px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.fifth{
+    height: 220px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.sixth{
+    margin-top: 130px;
+    height: 90px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+}
+
+.seventh{
+    margin-top: 90px;
+    height: 130px;
+    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
 }

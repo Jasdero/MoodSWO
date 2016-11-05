@@ -20,12 +20,13 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
-            <div class="col-xs-offset-1 col-xs-1 column"></div>
+            <div class="col-xs-offset-2 col-xs-1 column first"></div>
+            <div class="col-xs-1 column second"></div>
+            <div class="col-xs-1 column third"></div>
+            <div class="col-xs-1 column fourth"></div>
+            <div class="col-xs-1 column fifth"></div>
+            <div class="col-xs-1 column sixth"></div>
+            <div class="col-xs-1 column seventh"></div>
         </div>
         <div></div>
     </div>
