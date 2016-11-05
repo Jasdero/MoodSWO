@@ -6,44 +6,44 @@
 .first{
     margin-top: 70px;
     height: 150px;
-    background: linear-gradient(#58FA82 10%, #F4FA58 50%, #FA5858 90%);
+    background: linear-gradient(#c8f7c5 40%, #36d7b7 50%,#36d7b7 80%, #2ecc71 90%);
 }
 
 .second{
     margin-top: 20px;
     height: 200px;
-    background: linear-gradient(#58FA82 30%, #F4FA58 60%, #FA5858 80%);
+    background: linear-gradient(#c8f7c5 30%, #36d7b7 40%, #36d7b7 75%, #2ecc71 80%);
 }
 
 .third{
     margin-top: 40px;
     height:180px;
-    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
+    background: linear-gradient(#c8f7c5 30%, #36d7b7 40%, #36d7b7 60%, #2ecc71 70%);
 }
 
 .fourth{
     margin-top: 30px;
     height: 190px;
-    background: linear-gradient(#58FA82 10%, #F4FA58 80%, #FA5858 90%);
+    background: linear-gradient(#c8f7c5 10%,#36d7b7 20%, #36d7b7 60%, #2ecc71 70%);
 }
 
 .fifth{
     margin-top: 90px;
     height: 130px;
-    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
+    background: linear-gradient(#c8f7c5 30%, #36d7b7 40%, #36d7b7 70%, #2ecc71 80%);
 }
 
 
 .sixth{
     height: 220px;
-    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
+    background: linear-gradient(#c8f7c5 25%, #36d7b7 35%, #36d7b7 60%, #2ecc71 70%);
 
 }
 
 .seventh{
     margin-top: 130px;
     height: 90px;
-    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
+    background: linear-gradient(#c8f7c5 15%, #36d7b7 25%, #36d7b7 60%, #2ecc71 70%);
 
 }
 
@@ -59,19 +59,19 @@
     margin-bottom: 50px;
 }
 
-.yellow{
+.neutre{
     height: 10px;
-    background-color: #F4FA58;
+    background-color: #36d7b7;
 }
 
-.green{
+.positif{
     height: 10px;
-    background-color: #58FA82;
+    background-color: #c8f7c5;
 }
 
-.red{
+.negatif{
     height: 10px;
-    background-color: #FA5858;
+    background-color: #2ecc71;
 }
 
 .noir{
@@ -82,23 +82,23 @@
 .un{
     margin-top: 100px;
     height: 120px;
-    background: linear-gradient(#58FA82 30%, #F4FA58 42%, black 43%, #F4FA58 44%, #FA5858 85%);
+    background: linear-gradient(#c8f7c5 30%, #36d7b7 42%, black 43%, #36d7b7 44%,#36d7b7 65%, #2ecc71 75%);
 }
 
 .deux{
     margin-top: 70px;
     height: 150px;
-    background: linear-gradient(#58FA82 30%, #F4FA58 42%, black 43%, #F4FA58 44%, #FA5858 85%);
+    background: linear-gradient(#c8f7c5 30%, #36d7b7 42%, black 43%, #36d7b7 44%, #36d7b7 75%, #2ecc71 85%);
 }
 
 .trois{
     margin-top: 90px;
     height: 130px;
-    background: linear-gradient(#58FA82 10%, #F4FA58 31%, black 32%, #F4FA58 33%, #F4FA58 50%, #FA5858 90%);
+    background: linear-gradient(#c8f7c5 30%, #c8f7c5 41%, #36d7b7 51%, black 52%, #36d7b7 53%, #36d7b7 60%,#36d7b7 80%, #2ecc71 90%);
 }
 
 .quatre{
     margin-top: 120px;
     height: 100px;
-    background: linear-gradient(#58FA82 40%, black 41%,#58FA82 42%,  #F4FA58 64%, #FA5858 95%);
+    background: linear-gradient(#c8f7c5 40%, black 41%,#c8f7c5 42%, #36d7b7 52%,  #36d7b7 64%,  #36d7b7 85%, #2ecc71 95%);
 }
