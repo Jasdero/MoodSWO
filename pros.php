@@ -13,7 +13,9 @@
 </head>
 <body>
 <header>
-
+    <?php
+        include 'header.php';
+    ?>
 </header>
 <section>
     <div class="container">
