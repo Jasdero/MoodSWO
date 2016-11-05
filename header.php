@@ -47,7 +47,6 @@
                 </form>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#">Log In</a></li>
-
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
