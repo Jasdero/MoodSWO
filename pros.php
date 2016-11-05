@@ -11,7 +11,9 @@
         include 'header.php';
     ?>
 </header>
-    <h1>Espace Simplifié</h1>
+<div class="col-xs-offset-2">
+    <h1>Mon tableau de bord</h1>
+</div>
 <section>
     <div class="container ">
         <h2 class="">Résumé de ma semaine</h2>
@@ -36,11 +38,11 @@
                 <div class="col-xs-1  pull-right">Jour</div>
             </div>
         <div class="row">
-            <div class="col-xs-1 green"></div>
+            <div class="col-xs-1 positif"></div>
             <div class="col-xs-2"><p>Satisfaits</p></div>
-            <div class="col-xs-1 yellow"></div>
+            <div class="col-xs-1 neutre"></div>
             <div class="col-xs-2"><p>Neutres</p></div>
-            <div class="col-xs-1 red"></div>
+            <div class="col-xs-1 negatif"></div>
             <div class="col-xs-2"><p>Pas satisfaits</p></div>
         </div>
     </div>
@@ -74,9 +76,6 @@
     </div>
 </section>
 <footer>
-    <img src="moods-01.png" alt="">
-    <img src="moods-02.png" alt="">
-    <img src="moods-03.png" alt="">
 </footer>
 </body>
 </html>
