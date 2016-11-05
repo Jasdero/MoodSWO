@@ -1,0 +1,17 @@
+.titreVote {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.pVote {
+    text-decoration: underline;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 150%;
+    color: black;
+}
+.pVote2 {
+    margin-left: 20%;
+    font-size: 150%;
+    color: black;
+}
