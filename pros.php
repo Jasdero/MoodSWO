@@ -26,17 +26,17 @@
                 <div class="col-xs-1 seventh coll"></div>
             </div>
             <div class="row">
-                <div class="col-xs-1 coll">Lundi</div>
-                <div class="col-xs-1 coll">Mardi</div>
-                <div class="col-xs-1 coll">Mercredi</div>
-                <div class="col-xs-1 coll">Jeudi</div>
-                <div class="col-xs-1 coll">Vendredi</div>
-                <div class="col-xs-1 coll">Samedi</div>
-                <div class="col-xs-1 coll">Dimanche</div>
-                <div class="col-xs-1 coll pull-right">Jour</div>
+                <div class="col-xs-1 txt">Lundi</div>
+                <div class="col-xs-1 txt">Mardi</div>
+                <div class="col-xs-1 txt">Mercredi</div>
+                <div class="col-xs-1 txt">Jeudi</div>
+                <div class="col-xs-1 txt">Vendredi</div>
+                <div class="col-xs-1 txt">Samedi</div>
+                <div class="col-xs-1 txt">Dimanche</div>
+                <div class="col-xs-1  pull-right">Jour</div>
             </div>
     </div>
-    <div class="container ">
+    <div class="container">
         <h2 class="">Résumé de mon dernier mois</h2>
         <div class="row column">
             <div class="pull-left"> votes</div>
@@ -47,11 +47,11 @@
 
         </div>
         <div class="row">
-            <div class="col-xs-1 coll">1ère semaine</div>
-            <div class="col-xs-1 coll">2è semaine</div>
-            <div class="col-xs-1 coll">3è semaine</div>
-            <div class="col-xs-1 coll">4è semaine</div>
-            <div class="col-xs-1 coll pull-right">Semaine</div>
+            <div class="col-xs-1 txt">1ère semaine</div>
+            <div class="col-xs-1 txt">2è semaine</div>
+            <div class="col-xs-1 txt">3è semaine</div>
+            <div class="col-xs-1 txt">4è semaine</div>
+            <div class="col-xs-1  pull-right">Semaine</div>
 
         </div>
     </div>

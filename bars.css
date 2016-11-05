@@ -6,83 +6,55 @@
 .first{
     margin-top: 70px;
     height: 150px;
-    background: linear-gradient(#66ff66 10%, #ffff66 70%, #ff6666 90%);
+    background: linear-gradient(#58FA82 10%, #F4FA58 50%, #FA5858 90%);
 }
 
 .second{
     margin-top: 20px;
     height: 200px;
-    background: linear-gradient(#66ff66 30%, #ffff66 60%, #ff6666 80%);
+    background: linear-gradient(#58FA82 30%, #F4FA58 60%, #FA5858 80%);
 }
 
 .third{
     margin-top: 40px;
     height:180px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
 }
 
 .fourth{
     margin-top: 30px;
     height: 190px;
-    background: linear-gradient(#66ff66 10%, #ffff66 80%, #ff6666 90%);
+    background: linear-gradient(#58FA82 10%, #F4FA58 80%, #FA5858 90%);
 }
 
 .fifth{
     margin-top: 90px;
     height: 130px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
 }
 
 
 .sixth{
     height: 220px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
 
 }
 
 .seventh{
     margin-top: 130px;
     height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
+    background: linear-gradient(#58FA82 20%, #F4FA58 60%, #FA5858 80%);
 
 }
 
-.eigth{
-    margin-top: 130px;
-    height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
-
-}
-
-.ninth{
-    margin-top: 130px;
-    height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
-
-}
-
-.tenth{
-    margin-top: 130px;
-    height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
-
-}
-
-.eleventh{
-    margin-top: 130px;
-    height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
-
-}
-
-.twelth{
-    margin-top: 130px;
-    height: 90px;
-    background: linear-gradient(#66ff66 20%, #ffff66 60%, #ff6666 80%);
-
-}
 
 .coll{
     margin-left: 15px;
     margin-right: 15px;
+}
+
+.txt{
+    margin-left: 25px;
+    margin-right: 15px;
+    margin-bottom: 50px;
 }
