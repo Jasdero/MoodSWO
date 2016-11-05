@@ -62,17 +62,21 @@
             <div class="col-xs-1  pull-right">Semaine</div>
         </div>
         <div class="row">
-            <div class="col-xs-1 green"></div>
+            <div class="col-xs-1 positif"></div>
             <div class="col-xs-2"><p>Satisfaits</p></div>
-            <div class="col-xs-1 yellow"></div>
+            <div class="col-xs-1 neutre"></div>
             <div class="col-xs-2"><p>Neutres</p></div>
-            <div class="col-xs-1 red"></div>
+            <div class="col-xs-1 negatif"></div>
             <div class="col-xs-2"><p>Pas satisfaits</p></div>
             <div class="col-xs-1 noir"></div>
             <div class="col-xs-2"><p>Mon magasin</p></div>
         </div>
     </div>
 </section>
-<footer></footer>
+<footer>
+    <img src="moods-01.png" alt="">
+    <img src="moods-02.png" alt="">
+    <img src="moods-03.png" alt="">
+</footer>
 </body>
 </html>
