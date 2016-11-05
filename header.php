@@ -3,6 +3,7 @@
         <h1 class="titre">Mood</h1>
         <p class="slogan">La vérité sort de la bouche de vos clients</p>
     </div>
+</header>
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
