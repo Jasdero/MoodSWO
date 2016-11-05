@@ -1,4 +1,4 @@
-<header>
+
     <div class="jumbotron">
         <h1 class="titre">Mood</h1>
         <p class="slogan">La vérité sort de la bouche de vos clients</p>
@@ -51,4 +51,3 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
-</header>

@@ -19,17 +19,25 @@
     ?>
 </header>
 <section>
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-offset-2 col-xs-1 column first"></div>
-            <div class="col-xs-1 column second"></div>
-            <div class="col-xs-1 column third"></div>
-            <div class="col-xs-1 column fourth"></div>
-            <div class="col-xs-1 column fifth"></div>
-            <div class="col-xs-1 column sixth"></div>
-            <div class="col-xs-1 column seventh"></div>
+    <div class="container ">
+        <div class="row column">
+            <div class="col-xs-1 first coll"></div>
+            <div class="col-xs-1 second coll"></div>
+            <div class="col-xs-1 third coll"></div>
+            <div class="col-xs-1 fourth coll"></div>
+            <div class="col-xs-1 fifth coll"></div>
+            <div class="col-xs-1 sixth coll"></div>
+            <div class="col-xs-1 seventh coll"></div>
         </div>
-        <div></div>
+        <div class="row">
+            <div class="col-xs-1 coll">Lundi</div>
+            <div class="col-xs-1 coll">Mardi</div>
+            <div class="col-xs-1 coll">Mercredi</div>
+            <div class="col-xs-1 coll">Jeudi</div>
+            <div class="col-xs-1 coll">Vendredi</div>
+            <div class="col-xs-1 coll">Samedi</div>
+            <div class="col-xs-1 coll">Dimanche</div>
+        </div>
     </div>
 </section>
 <footer></footer>
