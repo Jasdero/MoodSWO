@@ -1,9 +1,13 @@
-.titre {
-    text-align: center;
+.ban {
+    background-color: #45949a;
 }
 .slogan {
-    text-align: center  ;
+    text-align: center;
+    color: black;
+    margin-bottom: 5%;
 }
-body {
-    padding-top: 4%;
+
+.logo {
+    margin-top: 5%;
+    width: 20%;
 }
