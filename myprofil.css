@@ -1,0 +1,32 @@
+.titreBonjour {
+    text-align: center;
+    color: black;
+}
+.pBonjour {
+    text-align: center;
+    color: black;
+}
+h3 {
+    text-align: center;
+}
+.note {
+    margin-top: 5%;
+    border: solid 1px black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px #888888;
+    background-color: #45949a;
+}
+.note1 {
+    margin-top: 5%;
+    border: solid 1px black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px #888888;
+    background-color: #45949a;
+}
+.imgSmiley {
+    width: 60%;
+}
+
+.date {
+    text-align: right;
+}

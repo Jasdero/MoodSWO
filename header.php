@@ -1,10 +1,15 @@
+<header>
+    <div class="container-fluid ban">
+        <div class="row">
+            <div class="col-lg-12">
+                <img src="logo-MyMood-01.png" class="img-responsive logo center-block" alt="Logo MyMood">
+                <h1 class="slogan">Prenez l'avis au serieux</h1>
+            </div>
+        </div>
+    </div>
+</header>
 
-<div class="jumbotron">
-    <h1 class="titre">MyMood</h1>
-    <p class="slogan">La vérité sort de la bouche de vos clients</p>
-</div>
-
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -40,7 +45,7 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Log In</a></li>
+                <li><a href="#">Log Out</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
