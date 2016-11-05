@@ -8,8 +8,9 @@
     <link rel="stylesheet" href="bars.css">
     <link rel="stylesheet" href="header.css">
     <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <script src="vendor/components/jquery/jquery.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
     <title>Document</title>
 </head>
 <body>
